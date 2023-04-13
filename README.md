@@ -1,2 +1,1 @@
-# git-study3
-test
+# Gitの勉強
